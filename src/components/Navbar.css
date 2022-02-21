@@ -1,0 +1,10 @@
+.search-box{
+    border:1px solid gray;
+    height:30px;
+    width:60%;
+    border-radius:15px;
+    margin-right:10%;
+}
+.img{
+    margin-left:4%;
+}
